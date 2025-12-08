@@ -34,13 +34,12 @@ description: نقشه راه جامع یادگیری کوبرنتیز از لا�
 ### 🟢 فاز اول: زیرساخت، ران‌تایم و معماری (The Foundation & Runtime)
 *تمرکز بر لینوکس، مکانیزم اجرای کانتینر و آبجکت‌های پایه.*
 
-|  جلسه  | عنوان و موضوعات کلیدی                                                                                                       | وضعیت | لینک مستندات                           |
-| :----: | :-------------------------------------------------------------------------------------------------------------------------- | :---: | :------------------------------------- |
-| **۰۱** | **کالبدشکافی لینوکس و پروسه‌ها**<br>*Process Lifecycle, Scheduling, /proc, Namespaces Intro*                                |   ✅   | [مشاهده مستندات](./01-linux_internals) |
-| **۰۲** | **معماری Container Runtime و مکانیزم اجرای Pod** <br>*containerd, shim, runc, OCI Spec, CRI, Pause Container & Pod Sandbox* |  ✍️   | *به زودی...*                           |
-| **۰۳** | **آشنایی با Workloadهای اصلی و مدیریت منابع**<br>*Pod, Deployment, Service, ConfigMap*                                      |  📅   | -                                      |
-| **۰۴** | ...                                                                                                                         |  📅   | -                                      |
-
+| Session | Title & Key Topics                                                                                                                   | Status | Documentation Link                |
+| :-----: | :----------------------------------------------------------------------------------------------------------------------------------- | :----: | :-------------------------------- |
+| **01**  | **Linux Internals & Process Anatomy** <br/> *(Process Lifecycle, CPU Scheduling, /proc, Namespaces Intro)*                           |   ✅    | [View Docs](./01-linux_internals) |
+| **02**  | **Container Runtime Architecture & Pod Mechanics** <br/> *(containerd, shim, runc, OCI Spec, CRI, Pause Container & Pod Sandbox)*    |   ✍️   | *Coming Soon...*                  |
+| **03**  | **Kubernetes Workloads & Resource Management** <br/> *(Pod, Deployment, Service, ConfigMap, DaemonSet, StatefulSet & App Lifecycle)* |   📅   | -                                 |
+| **04**  | ...                                                                                                                                  |   📅   | -                                 |
 *(لیست جلسات به مرور زمان و با پیشرفت دوره تکمیل خواهد شد...)*
 
 ---
