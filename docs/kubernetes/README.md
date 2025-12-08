@@ -40,6 +40,7 @@ description: نقشه راه جامع یادگیری کوبرنتیز از لا�
 | **02**  | **Container Runtime Architecture & Pod Mechanics** <br/> *(containerd, shim, runc, OCI Spec, CRI, Pause Container & Pod Sandbox)*    |   ✍️   | *Coming Soon...*                  |
 | **03**  | **Kubernetes Workloads & Resource Management** <br/> *(Pod, Deployment, Service, ConfigMap, DaemonSet, StatefulSet & App Lifecycle)* |   📅   | -                                 |
 | **04**  | ...                                                                                                                                  |   📅   | -                                 |
+
 *(لیست جلسات به مرور زمان و با پیشرفت دوره تکمیل خواهد شد...)*
 
 ---
